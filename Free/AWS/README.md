@@ -8,7 +8,7 @@
 
 |Course Name|Issued Date|Completion Certificate|
 |:---------:|:---------:|:--------------------:|
-|Linear&nbsp;and&nbsp;Logistic&nbsp;Regression|2&nbsp;September,&nbsp;2021|<img src='./Images/AWS_Math for Machine Learning.png'/>|
+|Math&nbsp;for&nbsp;Machine&nbsp;Learning|4&nbsp;September,&nbsp;2021|<img src='./Images/AWS_Math for Machine Learning.png'/>|
 
 
 
