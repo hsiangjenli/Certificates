@@ -7,3 +7,4 @@
 4. [MongoDB University](./Free/MongoDB-University)
 5. [Kaggle](./Free/Kaggle)
 6. [Coursera](./Free/Coursera)
+7. [NVIDIA](./Free/NVIDIA)
