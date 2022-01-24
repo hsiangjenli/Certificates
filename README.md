@@ -1,10 +1,13 @@
-# Online Courses with Certificate
+# **Certificate**
+## **Paid**
+1. [TOEIC](./Paid/TOEIC)
+## **Online Courses with Certificate**
 
-## Free
+### **Free**
 1. [IBM](./Free/IBM)
-2. [Google](./Free/Google)
-3. [Udemy](./Free/Udemy)
-4. [MongoDB University](./Free/MongoDB-University)
-5. [Kaggle](./Free/Kaggle)
-6. [Coursera](./Free/Coursera)
-7. [NVIDIA](./Free/NVIDIA)
+1. [Google](./Free/Google)
+1. [Udemy](./Free/Udemy)
+1. [MongoDB University](./Free/MongoDB-University)
+1. [Kaggle](./Free/Kaggle)
+1. [Coursera](./Free/Coursera)
+1. [NVIDIA](./Free/NVIDIA)
