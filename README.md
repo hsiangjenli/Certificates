@@ -1,6 +1,9 @@
 # **Certificate**
 ## **Paid**
 1. [TOEIC](./Paid/TOEIC)
+1. [GLAD](./Paid/GLAD)
+
+
 ## **Online Courses with Certificate**
 
 ### **Free**
