@@ -1,5 +1,7 @@
 # **Certificate**
 ## **Paid**
+1. [Taiwan Academy of Banking and Finance - TABF](./Paid/TABF)
+1. [Securities & Futures Institute - SFI](./Paid/SFI)
 1. [TOEIC](./Paid/TOEIC)
 1. [GLAD](./Paid/GLAD)
 
