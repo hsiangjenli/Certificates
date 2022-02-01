@@ -1,5 +1,8 @@
-# Coursera
+<p align='center'>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/250/000000/external-coursera-an-online-learning-platform-offers-massive-open-courses-logo-color-tal-revivo.png"/>
+</p>
 
+# Coursera
 ### 1. [Coursera](https://www.coursera.org/)
 
 |Course Name|Issued Date|Completion Certificate|
