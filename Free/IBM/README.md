@@ -17,6 +17,8 @@
 |Unsupervised Machine Learning|Febuarary&nbsp;03,&nbsp;2022|<img src="./Images/Coursera_IBM_Unsupervised Machine Learning.png">||
 |Deep Learning and Reinforcement Learning|April&nbsp;05,&nbsp;2022|<img src="./Images/Coursera_IBM_Deep Learning and Reinforcement Learning.png">||
 |IBM Introduction to Machine Learning|April&nbsp;05,&nbsp;2022|<img src="./Images/Coursera_IBM_IBM Introduction to Machine Learning.png">||
+|IBM Time Series and Survival Analysis|July&nbsp;18,&nbsp;2022|<img src="./Images/Coursera_IBM_Time Series and Survival Analysis.png">||
+|IBM Machine Learning|July&nbsp;18,&nbsp;2022|<img src="./Images/Coursera_IBM_IBM Machine Learning.png">|<img src='https://images.credly.com/size/680x680/images/f02ef07e-9cc2-4bc4-a316-ccfaedde8559/Professional_Certificate_-_IBM_Machine_Language.png'>|
 
 
 ---
